@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Content",
+    "\\Content\\images"
   ],
+  "SelectedNode": "\\Content\\images\\bzrstr.jpg",
   "PreviewInSolutionExplorer": false
 }

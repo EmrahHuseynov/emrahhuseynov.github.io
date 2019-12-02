@@ -1,1 +1,1 @@
-# emrahhuseynov.github.io
+amirahuseynov.com
